@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 أهلاً، أنا عبدالله حمودة
 
-<!--
-**abdallahamoda588-stack/abdallahamoda588-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 طالب ذكاء اصطناعي ومتخصص في السايبر سيكيورتي
+- 🔭 **شغال حالياً على:** تطوير أدوات اكتشاف التهديدات بالذكاء الاصطناعي (AI-Driven Threat Detection).
+- 🌱 **بتعلم حالياً:** أتمتة اختبار الاختراق والتحليل الجنائي الرقمي (Digital Forensics).
+- 💬 **اسألني عن:** Python, Networking, Linux, and Web Security.
+- 📫 **تواصل معايا على:** [حسابك على LinkedIn هنا]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ الأدوات والتقنيات (Skills & Tools):
+- **Programming:** Python, Bash, C/C++
+- **Cybersecurity:** Wireshark, Burp Suite, Nmap, Splunk, Metasploit
+- **AI & Data Science:** Scikit-Learn, Pandas, TensorFlow
+- **Environments:** Linux (Kali/Ubuntu), Windows Enterprise, Active Directory
+-
